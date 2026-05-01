@@ -1,0 +1,30 @@
+# Environments
+venv/
+venv312/
+.venv/
+node_modules/
+dist/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+.env.local
+
+# Database and Large Files
+*.db
+*.sqlite3
+*.csv
+*.npy
+*.npz
+*.joblib
+*.pkl
+*.kv
+
+# IDEs
+.vscode/
+.idea/
