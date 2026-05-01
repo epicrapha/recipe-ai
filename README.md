@@ -4,7 +4,7 @@ A production-ready, full-stack recipe recommendation engine powered by Machine L
 
 This application uses Natural Language Processing (NLP) and K-Means clustering to analyze ingredients, organize over 2 million recipes, and provide lightning-fast, highly accurate recipe recommendations based on what you have in your pantry.
 
-![Banner](https://via.placeholder.com/1000x300?text=Recipe+Recommendation+System)
+![Banner](./assets/banner.png)
 
 ## ✨ Features
 
